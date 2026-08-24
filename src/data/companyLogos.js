@@ -1,8 +1,8 @@
 const companyLogos = [
-  "/images/logos/amazon.svg",
-  "/images/logos/google.svg",
-  "/images/logos/nasa.svg",
-  "/images/logos/dropbox.svg",
+  "/portfolio/images/logos/amazon.svg",
+  "/portfolio/images/logos/google.svg",
+  "/portfolio/images/logos/nasa.svg",
+  "/portfolio/images/logos/dropbox.svg",
 ];
 
 export default companyLogos;

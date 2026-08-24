@@ -28,7 +28,7 @@ const Hero = () => {
       {/* Right Side: Image + Icons */}
       <div className="relative mt-10 md:mt-0">
         <img
-          src="/images/hero/lion.jpg"
+          src="/portfolio/images/hero/lion.jpg"
           alt="Profile"
           className="rounded-full shadow-lg"
           width={300}
@@ -36,19 +36,19 @@ const Hero = () => {
         />
         <div className="absolute top-[-20px] right-[-20px] bg-white dark:bg-gray-700 p-2 rounded-full shadow-md">
           <img
-            src="/images/hero/flutter.svg"
+            src="/portfolio/images/hero/flutter.svg"
             alt="Flutter"
             className="w-8 h-8"
           />
         </div>
         <div className="absolute bottom-[-20px] left-[-20px] bg-white dark:bg-gray-700 p-2 rounded-full shadow-md">
           <img
-            src="/images/hero/convex.svg"
+            src="/portfolio/images/hero/convex.svg"
             alt="Convex"
             className="w-8 h-8"
           />
         </div>
-      </div>        
+      </div>
     </section>
   );
 };
